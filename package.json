@@ -1,5 +1,5 @@
 {
-  "name": "@user/npm-package-id-generator",
+  "name": "@grzegorz-jodlowski/npm-package-id-generator",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
