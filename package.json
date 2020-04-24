@@ -2,5 +2,11 @@
   "name": "@grzegorz-jodlowski/npm-package-id-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Simple id generator.",
+  "keywords": [
+    "id",
+    "generator"
+  ],
+  "repository": "grzegorz-jodlowski/npm-package-id-generator"
 }
