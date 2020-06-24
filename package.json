@@ -6,7 +6,8 @@
   "description": "Simple id generator.",
   "keywords": [
     "id",
-    "generator"
+    "generator",
+    "hash"
   ],
   "repository": "grzegorz-jodlowski/npm-package-id-generator"
 }
